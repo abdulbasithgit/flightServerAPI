@@ -1,0 +1,26 @@
+[
+    {
+      "flightNumber": 1,
+      "flightDate": "2019-03-12",
+      "flightOrgin": "Chennai",
+      "flightDes": "Mumbai"
+    },
+    {
+      "flightNumber": 2,
+      "flightDate": "2019-04-12",
+      "flightOrgin": "Mumbai",
+      "flightDes": "Goa"
+    },
+    {
+      "flightNumber": 3,
+      "flightDate": "2019-05-12",
+      "flightOrgin": "Banglore",
+      "flightDes": "Mumbai"
+    },
+    {
+      "flightNumber": 4,
+      "flightDate": "2019-06-12",
+      "flightOrgin": "Delhi",
+      "flightDes": "Mumbai"
+    }
+]
